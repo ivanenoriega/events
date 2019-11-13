@@ -2,9 +2,9 @@
 
 ### Ejercicios basicos
 
-1. Agrega un event listener a todos los alumnos para que al hacer click en sus nombres se muestre un `alert()` con el siguientte mensaje: "Alumno seleccionado".
+1. Agrega un `eventListener` del tipo `click` a todos los alumnos para que al hacer click en sus nombres se muestre un `alert()` con el siguientte mensaje: "Alumno seleccionado".
 
-2. Agrega un event listener a todos los mentores y tutores para que al hacer click en sus nombres se muestre un `alert()` con el siguiente mensaje: "Mentor/Tutor seleccionado".
+2. Agrega un `eventListener` del tipo `click` a todos los mentores y tutores para que al hacer click en sus nombres se muestre un `alert()` con el siguiente mensaje: "Mentor/Tutor seleccionado".
 
 ### Ejercicios intermedios
 
